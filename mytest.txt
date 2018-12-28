@@ -1,1 +1,6 @@
-aa01=www.baidu.com
+
+#
+aa01 #= www.baidu.com
+
+#测试
+bb01 #= www.xiaojiu.com
